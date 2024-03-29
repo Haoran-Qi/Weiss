@@ -43,10 +43,10 @@
     <a href="../4c616d6e696174655f3938303039"> Lamniate 98009</a>
     <a href="../4c616d6e696174655f3938303131"> Lamniate 98011</a>
 
-    <a href="../Red-Oak-2308"> Red-Oak 2308</a>
-    <a href="../Red-Oak-2312"> Red-Oak 2312</a>
-    <a href="../Red-Oak-2313-B"> Red-Oak 2313-B</a>
-    <a href="../Red-Oak-2314"> Red-Oak 2314</a>
-    <a href="../Red-Oak-2326"> Red-Oak 2326</a>
-    <a href="../Red-Oak-N62313"> Red-Oak Sand-N62313</a>
+    <a href="../5265642d4f616b2d32333038"> Red-Oak 2308</a>
+    <a href="../5265642d4f616b2d32333132"> Red-Oak 2312</a>
+    <a href="../5265642d4f616b2d323331332d42"> Red-Oak 2313-B</a>
+    <a href="../5265642d4f616b2d32333134"> Red-Oak 2314</a>
+    <a href="../5265642d4f616b2d32333236"> Red-Oak 2326</a>
+    <a href="../5265642d4f616b2d4e3632333133"> Red-Oak Sand-N62313</a>
 </nav>
