@@ -50,13 +50,13 @@
     <a href="../5265642d4f616b2d32333236"> Red-Oak 2326</a>
     <a href="../5265642d4f616b2d4e3632333133"> Red-Oak Sand-N62313</a>
 
-    <a href="../4c51363238332d36"> LQ 6283-6</a>
-    <a href="../4c51363238392d31"> LQ 6289-1</a>
-    <a href="../4c51363238392d33"> LQ 6289-3</a>
-    <a href="../4c51363330352d34"> LQ6305-4</a>
-    <a href="../4c51363330352d35"> LQ6305-5</a>
-    <a href="../4c51363331312d31"> LQ6311-1</a>
-    <a href="../4c51363333344b2d334b"> LQ6334K-3K</a>
-    <a href="../4c51363333344b2d41"> LQ6334K-A</a>
+    <a href="../4c51363238332d36"> LANIKAI</a>
+    <a href="../4c51363238392d31"> WASAGA</a>
+    <a href="../4c51363238392d33"> TRUNK BAY</a>
+    <a href="../4c51363330352d34"> SIESTA</a>
+    <a href="../4c51363330352d35"> HANALEI</a>
+    <a href="../4c51363331312d31"> COPACABANA</a>
+    <a href="../4c51363333344b2d334b"> BORA </a>
+    <a href="../4c51363333344b2d41"> VARADERO</a>
 
 </nav>
