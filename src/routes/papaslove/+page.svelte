@@ -59,4 +59,9 @@
     <a href="../4c51363333344b2d334b"> BORA </a>
     <a href="../4c51363333344b2d41"> VARADERO</a>
 
+
+    <a href="../2024-9-11-1"> Dijon</a>
+    <a href="../2024-9-11-2"> Saffron</a>
+    <a href="../2024-9-11-3"> Seashell</a>
+
 </nav>
