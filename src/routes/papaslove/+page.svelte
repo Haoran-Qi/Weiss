@@ -79,8 +79,8 @@
 
     <br/>
     <p>-------------------------------------------</p>
-    <a href="../4c51363238332d36"> 7mm VINYL FOG</a>
-    <a href="../4c51363238332d36"> 7mm VINYL REEF</a>
-    <a href="../4c51363238332d36"> 7mm VINYL SABLE</a>
-    <a href="../4c51363238332d36"> 7mm VINYL CORAL</a>
+    <a href="../5265642d4f616b2d323332361"> 7mm VINYL FOG</a>
+    <a href="../5265642d4f616b2d323332362"> 7mm VINYL REEF</a>
+    <a href="../5265642d4f616b2d323332363"> 7mm VINYL SABLE</a>
+    <a href="../5265642d4f616b2d323332364"> 7mm VINYL CORAL</a>
 </nav>
