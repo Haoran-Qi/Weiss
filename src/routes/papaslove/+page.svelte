@@ -77,4 +77,10 @@
     <a href="../4c51363333344b2d334b"> 8mm Spc BORA </a>
     <a href="../4c51363333344b2d41"> 8mm Spc VARADERO</a>
 
+    <br/>
+    <p>-------------------------------------------</p>
+    <a href="../4c51363238332d36"> 7mm VINYL FOG</a>
+    <a href="../4c51363238332d36"> 7mm VINYL REEF</a>
+    <a href="../4c51363238332d36"> 7mm VINYL SABLE</a>
+    <a href="../4c51363238332d36"> 7mm VINYL CORAL</a>
 </nav>
