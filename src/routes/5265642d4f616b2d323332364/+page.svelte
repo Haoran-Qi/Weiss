@@ -1,6 +1,7 @@
 <script>
-	import Apollo from '../../Red-Oak/2326.jpg';
-  import Apollo1 from '../../Red-Oak/Pebble-2326.jpg';
+	import Apollo from '../../5+2mmVinyl/Coral1.jpg';
+  import Apollo1 from '../../5+2mmVinyl/Coral2.jpg';
+  import Apollo2 from '../../5+2mmVinyl/Coral3.jpg';
 </script>
 
 <style>
@@ -38,5 +39,6 @@ h1 {
     <div class="image-container">
       <img src={Apollo} alt="">
       <img src={Apollo1} alt="">
+      <img src={Apollo2} alt="">
     </div>
   </main>

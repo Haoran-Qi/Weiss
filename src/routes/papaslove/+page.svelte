@@ -86,6 +86,14 @@
 
     <br/>
     <p>-------------------------------------------</p>
+    <a href="../5265642d4f616b2d323332365"> 7mm VINYL American Walnut</a>
+    <a href="../5265642d4f616b2d323332366"> 7mm VINYL Caviar</a>
+    <a href="../5265642d4f616b2d323332367"> 7mm VINYL Cinnabar</a>
+    <a href="../5265642d4f616b2d323332368"> 7mm VINYL Tan</a>
+    <a href="../5265642d4f616b2d323332369"> 7mm VINYL Vega</a>
+
+    <br/>
+    <p>-------------------------------------------</p>
     <a href="../476f6c64656e204f616b"> Golden Oak </a>
 
 
