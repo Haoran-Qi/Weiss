@@ -88,4 +88,12 @@
     <p>-------------------------------------------</p>
     <a href="../476f6c64656e204f616b"> Golden Oak </a>
 
+
+    <br/>
+    <p>-------------------------------------------</p>
+    <a href="../476f6c64656e204f616b"> Original Maple </a>
+    <a href="../476f6c64656e204f616b"> Hazelnut </a>
+    <a href="../476f6c64656e204f616b"> Pure Hickory </a>
+    <a href="../476f6c64656e204f616b"> Walnut </a>
+
 </nav>
