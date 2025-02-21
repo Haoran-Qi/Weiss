@@ -99,9 +99,9 @@
 
     <br/>
     <p>-------------------------------------------</p>
-    <a href="../476f6c64656e204f616b"> Original Maple </a>
-    <a href="../476f6c64656e204f616b"> Hazelnut </a>
-    <a href="../476f6c64656e204f616b"> Pure Hickory </a>
-    <a href="../476f6c64656e204f616b"> Walnut </a>
+    <a href="../476f6c64656e204f616c"> Original Maple </a>
+    <a href="../476f6c64656e204f616d"> Hazelnut </a>
+    <a href="../476f6c64656e204f616e"> Pure Hickory </a>
+    <a href="../476f6c64656e204f616f"> Walnut </a>
 
 </nav>
