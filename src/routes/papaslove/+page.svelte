@@ -104,4 +104,17 @@
     <a href="../476f6c64656e204f616e"> Pure Hickory </a>
     <a href="../476f6c64656e204f616f"> Walnut </a>
 
+
+    <br/>
+    <p>-------------------------------------------</p>
+    <a href="../476f6c64656e204f616f1"> Citadel </a>
+    <a href="../476f6c64656e204f616f2"> Meridian </a>
+    <a href="../476f6c64656e204f616f3"> Titanium </a>
+    <a href="../476f6c64656e204f616f4"> Eclipse </a>
+    <a href="../476f6c64656e204f616f5"> Sauvage </a>
+    <a href="../476f6c64656e204f616f6"> Horizon </a>
+    <a href="../476f6c64656e204f616f7"> Zenith </a>
+    <a href="../476f6c64656e204f616f8"> Aube </a>
+
+
 </nav>
