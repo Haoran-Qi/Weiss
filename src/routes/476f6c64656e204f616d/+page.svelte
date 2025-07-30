@@ -1,6 +1,6 @@
 <script>
-	import Apollo from '../../Red-Oak/2326.jpg';
-  import Apollo1 from '../../Red-Oak/Pebble-2326.jpg';
+	import Apollo from '../../2025-07-30/CottageMaple.jpg';
+  import Apollo1 from '../../2025-07-30/CottageMaple1.jpg';
 </script>
 
 <style>
